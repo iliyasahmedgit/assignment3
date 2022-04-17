@@ -1,0 +1,16 @@
+body{
+    background-image:url(covid.jpg);
+    }
+.image1{
+    border: 3px solid red;
+}
+
+.search-box{
+    border-radius: 15px;
+    width: 50%;
+}
+.sbtn{
+    border-radius: 20px;
+    background-color: red;
+    color: white;
+}
